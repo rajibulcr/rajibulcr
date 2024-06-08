@@ -7,7 +7,7 @@
 <div align="center" style="margin-top: 20px;">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rajibulcr&theme=dark&hide_border=false)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajibulcr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 </div>
 
