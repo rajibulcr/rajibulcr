@@ -8,7 +8,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rajibulcr&theme=dark&hide_border=false)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saikat-bera&label=Profile%20views&color=0e75b6&style=flat" alt="saikat-bera" /> </p>
 </div>
 
 <div align="center">
